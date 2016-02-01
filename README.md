@@ -13,6 +13,6 @@ work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
 ----------------------------------------------------------------------
 Low cost servo drive for small CNC machinery
 
-Project log on 
+Project log on https://hackaday.io/project/9433-brushed-dc-servo-drive
 
 ![drive](/Pictures/assembled-drive.jpg)
