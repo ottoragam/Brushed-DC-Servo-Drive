@@ -15,4 +15,4 @@ Low cost servo drive for small CNC machinery
 
 Project log on https://hackaday.io/project/8418-magnetic-incremental-rotary-encoder
 
-![assembled](Pictures/assembled-drive.JPG)
+![assembled-drve](Pictures/assembled-drive.JPG)
