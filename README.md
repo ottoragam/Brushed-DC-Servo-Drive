@@ -15,4 +15,4 @@ Low cost servo drive for small CNC machinery
 
 Project log on 
 
-![drive](Pictures/assembled-drive.JPG)
+![drive](Brushed-DC-Servo-Drive/Pictures/assembled-drive.jpg)
