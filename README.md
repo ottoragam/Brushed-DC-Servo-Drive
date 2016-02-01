@@ -13,6 +13,6 @@ work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
 ----------------------------------------------------------------------
 Low cost servo drive for small CNC machinery
 
-Project log on https://hackaday.io/project/8418-magnetic-incremental-rotary-encoder
+Project log on 
 
 ![assembled-drive](Pictures/assembled-drive.JPG)
