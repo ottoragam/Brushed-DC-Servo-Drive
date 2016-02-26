@@ -14,7 +14,7 @@
 #define ERROR_INTEGRAL_MAX      32000
 #define SET_POINT_MULTIPLIER    1
 #define PID_TIMER_COUNTS        5
-#define FOLLOWING_ERROR         350
+#define FOLLOWING_ERROR         35
 #define ENCODER_FAULT           60000
 
 #define ROTATE_CCW              PORTB|=(1<<1)
