@@ -1,7 +1,7 @@
 # Brushed-DC-Servo-Drive
 Low cost servo drive for small CNC machinery
 
-##New version available onhttps://github.com/ottoragam/Tarocco
+##New version available on https://github.com/ottoragam/Tarocco
 
 ----------------------------------------------------------------------
 Brushed DC Servo Drive (c) by Gino Magarotto
